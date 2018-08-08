@@ -1,0 +1,7 @@
+To Create a new Record : http://localhost/basic/basic/web/index.php?r=users/create
+To Read Records : http://localhost/basic/basic/web/index.php?r=users
+To Update Record : http://localhost/basic/basic/web/index.php?r=users%2Fedit&id=1
+** Send the Id of the Record you wanna update in URL
+To Delete Record : http://localhost/basic/basic/web/index.php?r=users%2Fdelete&id=1
+** Send the Id of the Record you wanna update in URL
+
